@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rush",
+  "description": "A retro 3D neon-lit arcade racing game built with Three.js and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
